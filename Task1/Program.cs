@@ -9,8 +9,6 @@ double Num(int A, int B)
     return result;
 }
 
-
-
 try
 {
     Console.WriteLine("Введите число A");
